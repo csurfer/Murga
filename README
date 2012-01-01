@@ -48,3 +48,15 @@ the destination path with the directory structure maintained ecaxtly the same.
 Sorted contents will be in folder : MusicOrganiser
 Originals will be in : MusicOrganiser/Originals
 Copies will be in : MusicOrganiser/Copies
+
+Apart from all this you will also get a statistics on how many files were checked for and 
+how many are originals and copies.
+
+Benefit :
+
+1) It saves your time of organising your mp3 files.
+2) As it copies and creates a backup of your data else where (Destination path) you dont have 
+to worry about loosing any data due to the script.
+
+Bugs and other queries : 
+For reporting any bugs or other related queries please visit www.csurfer.in
