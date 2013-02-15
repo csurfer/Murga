@@ -9,15 +9,6 @@ Copyright Vishwas B Sharma
 
 	Musical Organiser or in short Murga is a php script which sorts out the mp3 files
 as originals and copies depending upon their Id3v1 tags.
-	Mp3 files nowadays are freely available for listening to and downloading from several
-different sources. The major problem that arises when a group (friends/family) share such
-media is that a person may end up with multiple copies of the same mp3 file, but nested 
-inside in a different folder hierarchy. This just increases the used space on the disk and 
-requires a lot of effort if one decides to visit each folder and sort it out himself/herself
-manually.
-	Murga is a script which relieves us from this trouble of manual labour and provides us 
-with the originals and copies of the mp3 files sorted out in two different folders maintaining
-their directory structure.
 
 How to use ?
 
